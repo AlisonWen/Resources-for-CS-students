@@ -11,7 +11,7 @@ Some tools that school doesn't teach but come in handy when interacting with our
 </ul>
 
 ### Command Line Tools
-[MIT missing semester](https://missing.csail.mit.edu) : A course provided by MIT to let all CS students be acquainted with tools like command line and text editors.
+[MIT The missing semester of your CS education](https://missing.csail.mit.edu) : A course provided by MIT to let all CS students be acquainted with tools like command line and text editors.
 
 ### Learning Languages
 ##### Javascript
