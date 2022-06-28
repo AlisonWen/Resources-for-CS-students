@@ -7,6 +7,8 @@ Some tools that school doesn't teach but come in handy when interacting with our
   <li><a href="#Command Line Tools">Command Line Tools</a></li>
   
   <li><a href="#Learning Languages">Learning Languages</a></li>
+  
+  <li><a href="#Debugging">Debugging</a></li>
 
 </ul>
 
@@ -21,3 +23,6 @@ Some tools that school doesn't teach but come in handy when interacting with our
 ##### HTML, PHP, SQL
 
 [w3schools](https://www.w3schools.com) : Useful tools when learning how to write a webpage.
+
+### Debugging
+[Regular Expression](https://regex101.com) : Gives the explanation and match information for regular expressions.
