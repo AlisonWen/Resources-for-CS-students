@@ -8,6 +8,8 @@ Some tools that school doesn't teach but come in handy when interacting with our
   
   <li><a href="#Learning Languages">Learning Languages</a></li>
   
+  <li><a href="#Learning Subjects">Learning Subjects</a></li>
+  
   <li><a href="#Debugging">Debugging</a></li>
 
 </ul>
@@ -23,6 +25,10 @@ Some tools that school doesn't teach but come in handy when interacting with our
 ##### HTML, PHP, SQL
 
 [w3schools](https://www.w3schools.com) : Useful tools when learning how to write a webpage.
+
+### Learning Subjects
+
+[Operating System](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141) : 清大周志遠教授的作業系統，內含講義、作業
 
 ### Debugging
 [Regular Expression](https://regex101.com) : Gives the explanation and match information for regular expressions.
